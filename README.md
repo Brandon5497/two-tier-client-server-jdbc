@@ -70,6 +70,13 @@ This project demonstrates a classic **two-tier client–server model**, where a 
 
 ---
 
+## Screenshots
+![Client executing query](screenshots/RootCommand1.png)
+![Permission denied example](screenshots/MismatchedCredentials.png)
+
+
+---
+
 ## Project Structure
 
 ```text
@@ -97,4 +104,5 @@ This project demonstrates a classic **two-tier client–server model**, where a 
 │   ├── project3rootscript.sql
 │   ├── project3client1script.sql
 │   └── project3client2script.sql
+├── screenshots/
 └── README.md
