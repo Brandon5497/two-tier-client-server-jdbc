@@ -71,8 +71,8 @@ This project demonstrates a classic **two-tier client–server model**, where a 
 ---
 
 ## Screenshots
-![Client executing query](screenshots/RootCommand1.png)
-![Permission denied example](screenshots/MismatchedCredentials.png)
+![Client executing query](screenshot/RootCommand1.png)
+![Permission denied example](screenshot/MismatchedCredentials.png)
 
 
 ---
